@@ -1,8 +1,8 @@
 {
     "name": "vscode-powerpack",
-    "displayName": "VSCODE PowerPack",
+    "displayName": "PowerPack",
     "description": "Add awesomeness to vscode",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "lubus",
     "icon": "images/icon.png",
     "galleryBanner": {
@@ -10,7 +10,7 @@
         "theme": "light"
     },
     "license": "GPL-3.0-or-later",
-    "homepage": "https://github.com/lubusIN/vscode-powerpack/blob/master/README.md",
+    "homepage": "https://github.com/lubusIN/vscode-powerpack",
     "bugs": {
         "url": "https://github.com/lubusIN/vscode-powerpack/issues",
         "email": "info@lubus.in"

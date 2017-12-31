@@ -8,7 +8,7 @@
 --------------------
 Extension pack to add awesomeness to visual studio code. 
 
-Installs following extensions to enhance you workflow.
+Installs following extensions to enhance your workflow.
 
 - Sublime keybindings: Use sublime keymaps
 - EditorConfig: Support for .editorconfig
@@ -31,6 +31,6 @@ Installs following extensions to enhance you workflow.
 -----------
 vscode Powerpack is open-sourced software licensed under the [GPL 3.0 license](LICENSE.md)
 
-**Change Log**
+**Changelog**
 ----------
 For details [view changelog](CHANGELOG.md)
