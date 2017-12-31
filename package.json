@@ -1,13 +1,13 @@
 {
     "name": "vscode-powerpack",
-    "displayName": "VScode PowerPack",
+    "displayName": "VSCODE PowerPack",
     "description": "Add awesomeness to vscode",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "publisher": "lubus",
     "icon": "images/icon.png",
     "galleryBanner": {
         "color": "#D9ECF8",
-        "theme": "dark"
+        "theme": "light"
     },
     "license": "GPL-3.0-or-later",
     "homepage": "https://github.com/lubusIN/vscode-powerpack/blob/master/README.md",
@@ -25,7 +25,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionDependencies": [ 
+    "extensionDependencies": [
         "ms-vscode.sublime-keybindings",
         "EditorConfig.EditorConfig",
         "patbenatar.advanced-new-file",

@@ -1,10 +1,7 @@
-<p align="center"><img src="https://github.com/lubusIN/vscode-powerpack/blob/master/images/icon-github.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/lubusIN/vscode-powerpack/master/images/icon-github.png"></p>
 
 <p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=lubus.vscode-powerpack"><img src="https://vsmarketplacebadge.apphb.com/version-short/lubus.vscode-powerpack.svg
-" alt="Latest Stable Version"></a> <a href="https://marketplace.visualstudio.com/items?itemName=lubus.vscode-powerpack"><img src="https://vsmarketplacebadge.apphb.com/installs-short/lubus.vscode-powerpack.svg
-" alt="Downloads"></a> <a href="https://marketplace.visualstudio.com/items?itemName=lubus.vscode-powerpack"><img src="https://vsmarketplacebadge.apphb.com/rating-short/lubus.vscode-powerpack.svg
-" alt="Licence"></a> <a href="https://marketplace.visualstudio.com/items?itemName=lubus.vscode-powerpack"><img src="https://img.shields.io/aur/license/yaourt.svg" alt="Licence"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=lubus.vscode-powerpack"><img src="https://vsmarketplacebadge.apphb.com/version-short/lubus.vscode-powerpack.svg" alt="Latest Stable Version"></a> <a href="https://marketplace.visualstudio.com/items?itemName=lubus.vscode-powerpack"><img src="https://vsmarketplacebadge.apphb.com/installs-short/lubus.vscode-powerpack.svg" alt="Downloads"></a> <a href="https://marketplace.visualstudio.com/items?itemName=lubus.vscode-powerpack"><img src="https://vsmarketplacebadge.apphb.com/rating-short/lubus.vscode-powerpack.svg" alt="Licence"></a> <a href="https://marketplace.visualstudio.com/items?itemName=lubus.vscode-powerpack"><img src="https://img.shields.io/aur/license/yaourt.svg" alt="Licence"></a>
 </p>
 
 **About**
