@@ -1,14 +1,14 @@
 <p align="center"><img src="https://raw.githubusercontent.com/lubusIN/vscode-powerpack/master/images/icon-github.png"></p>
 
 <p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=lubus.vscode-powerpack"><img src="https://vsmarketplacebadge.apphb.com/version-short/lubus.vscode-powerpack.svg" alt="Latest Stable Version"></a> <a href="https://marketplace.visualstudio.com/items?itemName=lubus.vscode-powerpack"><img src="https://vsmarketplacebadge.apphb.com/installs-short/lubus.vscode-powerpack.svg" alt="Downloads"></a> <a href="https://marketplace.visualstudio.com/items?itemName=lubus.vscode-powerpack"><img src="https://vsmarketplacebadge.apphb.com/rating-short/lubus.vscode-powerpack.svg" alt="Licence"></a> <a href="https://marketplace.visualstudio.com/items?itemName=lubus.vscode-powerpack"><img src="https://img.shields.io/aur/license/yaourt.svg" alt="Licence"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=lubus.vscode-powerpack"><img src="https://vsmarketplacebadge.apphb.com/version-short/lubus.vscode-powerpack.svg" alt="Latest Stable Version"></a> <a href="https://marketplace.visualstudio.com/items?itemName=lubus.vscode-powerpack"><img src="https://vsmarketplacebadge.apphb.com/installs-short/lubus.vscode-powerpack.svg" alt="Downloads"></a> <a href="https://marketplace.visualstudio.com/items?itemName=lubus.vscode-powerpack"><img src="https://vsmarketplacebadge.apphb.com/rating-short/lubus.vscode-powerpack.svg" alt="Licence"></a> <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img src="https://img.shields.io/aur/license/yaourt.svg" alt="Licence"></a>
 </p>
 
 **About**
 --------------------
-Extension pack to add awesomeness to visual studio code. 
+Extension pack to enhance workflow & productivity with visual studio code. 
 
-Installs following extensions to enhance your workflow.
+***Installs following extensions to powerup***
 
 - Sublime keybindings: Use sublime keymaps
 - EditorConfig: Support for .editorconfig
@@ -21,7 +21,7 @@ Installs following extensions to enhance your workflow.
 
 **Credits**
 ------------
-* [Ajit Bohra](http://https://github.com/ajitbohra)
+* [Ajit Bohra](https://github.com/ajitbohra)
 
 **About LUBUS**
 ---------------

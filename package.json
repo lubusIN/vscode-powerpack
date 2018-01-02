@@ -1,8 +1,8 @@
 {
     "name": "vscode-powerpack",
     "displayName": "PowerPack",
-    "description": "Add awesomeness to vscode",
-    "version": "1.0.3",
+    "description": "Enhance workflow & productivity",
+    "version": "1.0.5",
     "publisher": "lubus",
     "icon": "images/icon.png",
     "galleryBanner": {
@@ -24,6 +24,12 @@
     },
     "categories": [
         "Extension Packs"
+    ],
+    "keywords": [
+        "PowerPack",
+        "WorkFlow",
+        "Utilities",
+        "Productivity"
     ],
     "extensionDependencies": [
         "ms-vscode.sublime-keybindings",
